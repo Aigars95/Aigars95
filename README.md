@@ -38,15 +38,15 @@
 
 <p align="center">
   <a href="https://github.com/Aigars95/TipCalculator">
-  <img src="assets/gifs/tipCalculator.gif" width="280" height="200"/>
+  <img src="assets/gifs/tipCalculator.gif" width="250" height="200"/>
   </a>
   
   <a href="https://github.com/Aigars95/rock_paper_scissors_lizard_spock">
-  <img src="assets/gifs/RockPaper.gif" width="280" height="200"/>
+  <img src="assets/gifs/RockPaper.gif" width="250" height="200"/>
   </a>
   
   <a href="https://github.com/Aigars95/ToDoList">
-  <img src="assets/gifs/TodoList.gif" width="280" height="200"/>
+  <img src="assets/gifs/TodoList.gif" width="250" height="200"/>
   </a>
 </p>
 

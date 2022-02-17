@@ -34,6 +34,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<h2> Some of my Personal Projects:</h2>
+
+<p align="center">
+  <a href="https://github.com/Aigars95/TipCalculator">
+  <img src="assets/gifs/tipCalculator.gif" width="250" height="200"/>
+  </a>
+  <a href="https://github.com/Aigars95/rock_paper_scissors_lizard_spock">
+  <img src="assets/gifs/RockPaper.gif" width="250" height="200"/>
+  </a>
+  <a href="https://github.com/Aigars95/ToDoList">
+  <img src="assets/gifs/TodoList.gif" width="250" height="200"/>
+  </a>
+</p>
 
 <!--
 **Aigars95/Aigars95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
